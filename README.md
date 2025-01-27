@@ -1,0 +1,3 @@
+#Background
+In the modern business world, especially in the marketing industry, sales data analysis plays a crucial role. The success of a company does not only depend on the size of the advertising budget but also on how well it understands and leverages the relationship between marketing strategies across various media and their impact on sales. To help companies stay competitive, advertising data analysis becomes key to understanding spending patterns on platforms such as TV, radio, and newspapers, as well as their effects on sales outcomes. By utilizing these insights, businesses can optimize their marketing strategies to maximize revenue.
+
